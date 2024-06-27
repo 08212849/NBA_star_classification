@@ -1,3 +1,4 @@
 *.xlsx
 *.docx
 *.pdf
+.idea/
